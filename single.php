@@ -2,4 +2,8 @@
 wp_safe_redirect(site_url(), 302);
 echo "2";
 echo "3";
+<<<<<<< HEAD
 echo "4";
+=======
+echo "55";
+>>>>>>> develop
